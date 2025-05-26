@@ -46,7 +46,7 @@ peso = 80
 altura = 1.79
 trabajador = false
 titulos = null
-milisegundosVividos = BigInt(0000000000000000000000000000000000000000)
+milisegundosVividos = BigInt(100000000000000000000000000000000000000000)
 
 // 7. A continuación, modifica los valores de las variables por otros de distinto tipo
 
