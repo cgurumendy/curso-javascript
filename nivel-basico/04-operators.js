@@ -17,7 +17,7 @@ console.log(a)
 b-- // Decremento
 console.log(b)
 
-// ¡Operadores de asignación!
+// ¡Operadores de Asignación!
 
 let myVariable = 2
 console.log(myVariable)
@@ -34,7 +34,7 @@ console.log(myVariable)
 myVariable **= 2
 console.log(myVariable)
 
-// ¡Operadores de comparación!
+// ¡Operadores de Comparación!
 
 console.log(a > b)
 console.log(a < b)
