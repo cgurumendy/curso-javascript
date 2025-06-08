@@ -45,7 +45,7 @@ console.log(mySet.size)
 let myArray = Array.from(mySet)
 console.log(myArray)
 
-// Convertir un arrar a set
+// Convertir un array a set
 
 mySet = new Set(myArray)
 console.log(mySet)
